@@ -1,3 +1,19 @@
+# Amazon-Automation-Testing
+###### This is a test automation project on Amazon website (E-commerce).
+## Installation
+Clone the repo:
+```
+git clone https://github.com/el-sherbini/Amazon-Automation-Testing.git
+```
+
+Install dependencies:
+
+You need to install these dependencies from [mvnrepository](https://mvnrepository.com/):
+```
+Selenium
+Testng
+Webdrivermanager
+```
 ### Test Scenarios
 #### Scenario 1:
 ###### 1-Open Amazon link “https://www.amazon.com/” (Got captcha needs to be solved manually).
